@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import utilities.*;
 
-public class courseDetailsFunctionality extends BaseUi{
+public class CourseDetailsFunctionality extends BaseUi{
 	
 	public ArrayList<String> tabsGUId;
 	public List<WebElement> courseName;

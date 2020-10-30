@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 import utilities.*;
-public class filterFunctionality extends BaseUi {
+public class FilterFunctionality extends BaseUi {
 
     // Method to apply filters (Language and Level filters)
     public void setLanguage() {
